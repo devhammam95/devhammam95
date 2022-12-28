@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is Mohamed Hassan
+My name is Mohamed Hassan, Senior software engineer.
+I have nearly 7 years experience in coding web technologies.
+I keep learning new things and technologies so can't stop myself from that 😆.
+I'm driven by my passion 💻.
 
 Here are some ideas to get you started:
 
