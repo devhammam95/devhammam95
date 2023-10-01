@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as senior software engineer, have a great knowledge in web development.
-- 🌱 I’m learning deeply software architecture,DevOps and Golang.
+- 🌱 I’m learning deeply software architecture,DevOps and spring boot.
 - 👯 I’m looking to collaborate on open projects.
 - 💬 Ask me about software development, software architecture, system design, e-commerce, SaaS.
 - 📫 How to reach me: 
