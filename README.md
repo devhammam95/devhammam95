@@ -1,12 +1,12 @@
 ### Hi there 👋
-### My name is Mohamed Hassan, senior software engineer.
-### I have nearly 8 years experience in coding web technologies.
+### My name is Mohamed Hassan, Technical Lead.
+### I have more than 8 years experience in coding web technologies.
 ### I keep learning new things and technologies so can't stop myself from that 😆.
 ### I'm driven by my passion 💻.
 
-Here are some ideas to get you started:
+Here are some points about me:
 
-- 🔭 I’m currently working as senior software engineer, have a great knowledge in web development.
+- 🔭 I’m currently working as Technical Lead, have a great knowledge in web development.
 - 🌱 I’m learning deeply software architecture,DevOps.
 - 👯 I’m looking to collaborate on open projects.
 - 💬 Ask me about software development, software architecture, system design, e-commerce, SaaS.
